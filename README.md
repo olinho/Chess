@@ -5,7 +5,7 @@ Chess game in haskell
 Compilation:
 :l Game2.hs
 
-After compilation:
+After compilation:\\
 main
 
 You can move for example a7a5.
